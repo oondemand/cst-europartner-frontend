@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.1.0 (2025-09-01)
+
+### ✨ Features
+
+* fix deploy ([dc4736d](https://github.com/oondemand/cst-europartner-frontend/commit/dc4736d9bb6fd39133f743aa4415d775fbc867c9))
+
 ## 0.0.6 (2025-09-01)
 
 ## 0.0.5 (2025-08-29)
