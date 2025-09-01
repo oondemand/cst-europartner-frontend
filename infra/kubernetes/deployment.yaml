@@ -1,21 +1,21 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: cst-multimoedas-frontend
-  namespace: cst-multimoedas
+  name: cst-europartner-frontend
+  namespace: cst-europartner
 spec:
   replicas: 1
   selector:
     matchLabels:
-      app: cst-multimoedas-frontend
+      app: cst-europartner-frontend
   template:
     metadata:
       labels:
-        app: cst-multimoedas-frontend
+        app: cst-europartner-frontend
     spec:
       containers:
-        - name: cst-multimoedas-frontend-container
-          image: ghcr.io/oondemand/cst-multimoedas-frontend:${IMAGE_TAG}-prod
+        - name: cst-europartner-frontend-container
+          image: ghcr.io/oondemand/cst-europartner-frontend:${IMAGE_TAG}-prod
           ports:
             - containerPort: 3000
           resources:

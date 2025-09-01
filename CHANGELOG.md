@@ -14,4 +14,4 @@
 
 ### 🐛 Bug Fixes
 
-* github deploy ([51e15d5](https://github.com/oondemand/cst-multimoedas-frontend/commit/51e15d50fa2b99f89b3e19057a1282313f3ef656))
+- github deploy ([51e15d5](https://github.com/oondemand/cst-europartner-frontend/commit/51e15d50fa2b99f89b3e19057a1282313f3ef656))
