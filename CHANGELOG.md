@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.1.1 (2025-09-18)
+
+### 🐛 Bug Fixes
+
+* some issues ([d00ed9f](https://github.com/oondemand/cst-europartner-frontend/commit/d00ed9fba7e002a765e844884d048738f1aaa195))
+
 ## 0.1.0 (2025-09-01)
 
 ### ✨ Features
